@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="getStart">Get Started!</string>
+    <string name="button2">SignUp</string>
+    <string name="button3">Login</string>
+    <string name="nama">Username</string>
+    <string name="username">Password</string>
+    <string name="hintuser"><font size="12">Input password</font></string>
+    <string name="hintnama"><font size="12">Input username</font></string>
+    <string name="showusername">Your password, %1$s</string>
+    <string name="showname">%1$s</string>
+</resources>
